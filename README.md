@@ -9,4 +9,15 @@ Se profundiza en los fundamentos del aprendizaje automático (Machine Learning),
 •	Redes neuronales Implementación de modelos con Keras y TensorFlow.
 • IA Generativa
 
+# Herramientas
 
+• Google Colab
+• Python
+• Orange Data Mining
+• VS Code
+• GitHub
+
+# Actividades
+
+• Preguntas: Inicio o finalización de cada sesión
+• Talleres
