@@ -5,22 +5,22 @@ Dirigido a estudiantes de la Fundación Universitaria de San Gil UNISANGIL, prog
 Docente: Jesús David García Caro
 
 # Temas
-•	Introducción al aprendizaje automático. 
-•	Algoritmos supervisados
-•	Algoritmos no supervisados
-•	Implementación de modelos con (Scikit-learn y Orange data mining) 
-•	Redes neuronales Implementación de modelos con Keras y TensorFlow.
-• IA Generativa
+  •	Introducción al aprendizaje automático. 
+  •	Algoritmos supervisados
+  •	Algoritmos no supervisados
+  •	Implementación de modelos con (Scikit-learn y Orange data mining) 
+  •	Redes neuronales Implementación de modelos con Keras y TensorFlow.
+  • IA Generativa
 
 # Herramientas
 
-• Google Colab
-• Python
-• Orange Data Mining
-• VS Code
-• GitHub
+  • Google Colab
+  • Python
+  • Orange Data Mining
+  • VS Code
+  • GitHub
 
 # Actividades
 
-• Preguntas: Inicio o finalización de cada sesión
-• Talleres
+  • Preguntas: Inicio o finalización de cada sesión
+  • Talleres
